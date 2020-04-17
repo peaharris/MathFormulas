@@ -1,0 +1,6 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch3/MethodsAndScope/bin/Debug/MethodsAndScope.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch3/MethodsAndScope/bin/Debug/MethodsAndScope.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch3/MethodsAndScope/obj/anycpu/Debug/MethodsAndScope.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch3/MethodsAndScope/obj/anycpu/Debug/MethodsAndScope.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch3/MethodsAndScope/obj/anycpu/Debug/MethodsAndScope.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch3/MethodsAndScope/obj/anycpu/Debug/MethodsAndScope.csprojAssemblyReference.cache
