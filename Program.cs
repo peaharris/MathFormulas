@@ -4,6 +4,14 @@ namespace MethodsAndScope
 {
     class MainClass
     {
+        //We wrote a program earlier that computed a) circumference of a circle, b) area of a circle,
+        //c) volume of a hemisphere(half sphere), d) area of a triangle(using Heron's formula), and
+        //e) the two solutions to the quadratic equation. Our earlier program accomplished this by
+        //putting all of our code in one (big) Main(). In this assignment we will take that code
+        //(or a provided known working solution) and modularize it by breaking it into smaller methods
+        //(not one big Main any more). "Refactoring" is an industry buzz-word that essentially means
+        //the same thing - cleaning up the code in some way.
+
         public static void Main(string[] args)
         {
             Circumference();
@@ -34,7 +42,7 @@ namespace MethodsAndScope
         {
             Console.WriteLine("Time for Volume Of A Hemisphere");
             double radius = GetRadius();
-            double volume = radius * radius * Math.PI;
+            double volume = ((4.0 / 3.0) * Math.PI * radius * radius * radius) / 2.0;
             Console.WriteLine("The Volume is: " + volume);
         } //end of Volume
 
